@@ -5,4 +5,5 @@ public class hjk {
     int i;
     int y;
     int ii;
+    public int sum(int x,int y){return x+y;}
 }
