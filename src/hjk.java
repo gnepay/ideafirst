@@ -6,4 +6,5 @@ public class hjk {
     int y;
     int ii;
     public int sum(int x,int y){return x+y;}
+    String  s= "hello world";
 }
