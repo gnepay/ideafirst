@@ -3,4 +3,5 @@
  */
 public class hjk {
     int i;
+    int y;
 }
